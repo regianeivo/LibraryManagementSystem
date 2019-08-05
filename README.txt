@@ -1,7 +1,8 @@
 Library Management System
 
 Implementation of a GUI to administrate mySQL
-Project about Inventory Management System that allows a member of staff to add, view, update and delete different items currently in stock.
+Project about Library Management System that allows the readers (library users) to register themselves to the
+library, rent books and return them, without the intervention of the library staff.
 
 The System Hs Two Different Account Types:
 
